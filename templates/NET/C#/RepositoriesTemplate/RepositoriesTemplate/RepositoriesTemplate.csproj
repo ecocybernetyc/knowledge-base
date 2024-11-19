@@ -15,8 +15,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\RepositoryCommon\RepositoryCommon.csproj" />
     <ProjectReference Include="..\PostgresEntityFramework\PostgresEntityFramework.csproj" />
+    <ProjectReference Include="..\RepositoryCommon\RepositoryCommon.csproj" />
   </ItemGroup>
 
 </Project>

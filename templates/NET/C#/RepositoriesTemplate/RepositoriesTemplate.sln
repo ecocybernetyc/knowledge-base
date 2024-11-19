@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoriesTemplate", "Rep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgresEntityFramework", "PostgresEntityFramework\PostgresEntityFramework.csproj", "{D8FEAEB5-5792-47C8-A74A-CC576885F3E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryCommon", "..\RepositoryCommon\RepositoryCommon.csproj", "{0E6656C4-E632-4393-854F-99960BFACA21}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryCommon", "RepositoryCommon\RepositoryCommon.csproj", "{0E6656C4-E632-4393-854F-99960BFACA21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
